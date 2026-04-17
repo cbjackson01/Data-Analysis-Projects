@@ -43,7 +43,7 @@ More info about dataset can be found in the following links:
 The following technologies are used to build this project:
 - Language: Python, SQL
 - Extraction and transformation: Jupyter Notebook, PostGRE SQL
-- Storage: PostgreSQL
+- Storage: PySpark
 
 ## Data Pipeline Architecture
 
