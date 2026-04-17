@@ -48,7 +48,7 @@ The following technologies are used to build this project:
 ## Data Pipeline Architecture
 
 
-<img width="897" alt="Screenshot 2023-05-08 at 11 49 09 AM" src="https://user-images.githubusercontent.com/81607668/236729698-65e193bc-75ee-4ea6-9040-f33f5f2958cb.png">
+<img width="897" alt="Screenshot 2023-05-08 at 11 49 09 AM" src="https://github.com/cbjackson01/Data-Analysis-Projects/blob/CTA-Analysis/Screenshot%202026-04-17%20164605.png?raw=true">
 
 Files in the following stages:
 - Step 1: Cleaning and transformation - [Uber Data Engineering.ipynb](https://github.com/katiehuangx/data-engineering/blob/main/Uber%20Project/Uber%20Data%20Engineering.ipynb)
@@ -60,3 +60,6 @@ Files in the following stages:
 ## Data Modeling
 
 The datasets are designed using the principles of fact and dim data modeling concepts. 
+
+<img width="897" alt="Screenshot 2023-05-08 at 11 49 09 AM" src="https://github.com/cbjackson01/Data-Analysis-Projects/blob/CTA-Analysis/Screenshot%202026-04-17%20164605.png?raw=true">
+
